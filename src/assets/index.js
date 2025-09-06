@@ -31,6 +31,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import cns from "./company/cns.png";
 import kishen from "./company/kishen.png"
+import mpac from "./company/mpac.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -70,6 +71,7 @@ export {
   tesla,
   cns,
   kishen,
+  mpac,
   carrent,
   jobit,
   tripguide,

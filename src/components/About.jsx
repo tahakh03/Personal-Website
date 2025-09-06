@@ -16,9 +16,8 @@ const About = () => {
       <motion.p variants={fadeIn("", "", 0.1, 1)}
       className="mt-4 text-secondary text-[17px] 
       max-w-3xl leading-[30px]"
-      > I am a driven individual pursuing a major in Electrical & Computer Engineering with a minor in Artificial Intelligence.
-      My passion lies in software development, where I strive to design and build reliable, efficient software systems that make a tangible difference in people's lives. 
-      With a strong foundation in engineering principles and a keen interest in emerging technologies, I am committed to continuous learning and innovation in the field.
+      > I am a Computer Engineering student with a minor in Artificial Intelligence, currently working as a Junior Systems Developer at MPAC. 
+      I’m passionate about building reliable, efficient software and enjoy working at the intersection of data, infrastructure, and automation. With one year left in my degree, I’m eager to keep growing my skills while contributing to impactful, real-world projects
       </motion.p>
     </>
   )

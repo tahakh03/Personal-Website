@@ -19,7 +19,7 @@ import {
   tesla,
   shopify,
   cns,
-  kishen,
+  mpac,
   carrent,
   jobit,
   tripguide,
@@ -129,6 +129,19 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Junior Systems Developer",
+    company_name: "Muncipal Property Assessment Corporation",
+    icon: mpac,
+    iconBg: "#E6DEDD",
+    date: "May 2025 - Present",
+    points: [
+      "Extended Python-based ETL pipelines to support new data sources and schema updates, enabling loading of data into PostgreSQL.",
+      "Managed CI/CD pipeline using GitHub Actions and AWS to automate tests and deployment.",
+      "Worked with FastAPI to extend backend functionality by updating endpoints and integrating API logic",
+      "Developed unit tests in Python to achieve over 80% code coverage for new features",
+    ],
+  },
+  {
     title: "Data Analyst Intern",
     company_name: "CNS Engineering",
     icon: cns,
@@ -138,18 +151,6 @@ const experiences = [
       "Developed and optimized SQL Server stored procedures for efficient data manipulation and business logic execution using Azure Data Studio.",
       "Implemented various SQL functions to enhance data querying and processing capabilities.",
       "Designed and managed database tables, ensuring data integrity and performance.",
-    ],
-  },
-  {
-    title: "LED Red Light Therapy Device Design",
-    company_name: "Kishen Lab",
-    icon: kishen,
-    iconBg: "#E6DEDD",
-    date: "Feb 2023 - May 2023",
-    points: [
-      "Engaged in comprehensive project management, ensuring seamless communication with external stakeholders.",
-      "Executed effective coordination to maintain alignment among team members, client expectations, and academic requirements.",
-      "Demonstrated adeptness in navigating the intricacies of the engineering design process, contributing valuable insights to the project's success.",
     ],
   },
 ];
